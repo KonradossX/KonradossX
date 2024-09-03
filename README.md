@@ -25,7 +25,7 @@
 <h3 align="center">Tools:</h3>
 <p align="center"> 
   <a href="https://code.visualstudio.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="visualstudio" width="40" height="40"/> </a>
-  <a href="https://www.autodesk.com/products/eagle/free-download?us_oa=dotcom-us&us_si=7830d3e7-9c47-4334-a72e-71d23394b93a&us_st=eagle" target="_blank" rel="noreferrer"> <img src="[https:s/ssets/mqtt.svg](https://fabacademy.org/2020/labs/bottrop/students/lena-hagenauer/pic/week04/eagle.png)" alt="eagle" width="40" height="40"/> </a>
+  <a href="https://www.autodesk.com/products/eagle/free-download?us_oa=dotcom-us&us_si=7830d3e7-9c47-4334-a72e-71d23394b93a&us_st=eagle" target="_blank" rel="noreferrer"> <img src="https://fabacademy.org/2020/labs/bottrop/students/lena-hagenauer/pic/week04/eagle.png" alt="eagle" width="40" height="40"/> </a> 
   <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a>
   <a href="https://mqtt.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/loganmarchione/homelab-svg-assets/08d4030f184b1601a9ee915626484460bd2d4d57/assets/mqtt.svg" alt="mqtt" width="40" height="40"/> </a>
 </p>
