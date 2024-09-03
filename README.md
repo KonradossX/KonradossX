@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm KonradossX</h1>
-<h3 align="center">while(my.alive == true) { code(); eat(); sleep(); }</h3>
+<h3 align="center">while(my.alive == true) {<br> eat();<br> code();<br> sleep();<br>}</h3>
 
-- 🌱 I’m currently learning **PyGame**
-
+🌱 I’m currently learning **PyGame**
 
 <h3 align="left">Languages:</h3>
 <p align="left"> 
@@ -40,6 +39,11 @@
 <p align="left"> 
   <a href="https://www.fanuc.eu" target="_blank" rel="noreferrer"> <img src="https://vectorwiki.com/images/GGhkx__fanuc-logo.svg" alt="fanuc" width="40" height="40"/> </a> 
   <a href="https://www.mitsubishielectric.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/mitsubishi.svg" alt="mitsubishi" width="40" height="40"/> </a> 
+</p>
+
+<h3 align="left">PLC:</h3>
+<p align="left"> 
+  <a href="https://www.siemens.com/global/en/products/automation/industry-software/automation-software/tia-portal.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/siemens/siemens-icon.svg" alt="siemens" width="40" height="40"/> </a> 
 </p>
 
 
