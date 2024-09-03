@@ -35,14 +35,10 @@
   <a href="https://www.influxdata.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/influxdata/influxdata-icon.svg" alt="influxDB" width="40" height="40"/> </a>
 </p>
 
-<h3 align="center">Robots:</h3>
+<h3 align="center">Automation:</h3>
 <p align="center"> 
   <a href="https://www.fanuc.eu" target="_blank" rel="noreferrer"> <img src="https://vectorwiki.com/images/GGhkx__fanuc-logo.svg" alt="fanuc" width="40" height="40"/> </a> 
   <a href="https://www.mitsubishielectric.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/mitsubishi.svg" alt="mitsubishi" width="40" height="40"/> </a> 
-</p>
-
-<h3 align="center">PLC:</h3>
-<p align="center"> 
   <a href="https://www.siemens.com/global/en/products/automation/industry-software/automation-software/tia-portal.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/siemens/siemens-icon.svg" alt="siemens" width="40" height="40"/> </a> 
 </p>
 
